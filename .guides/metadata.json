@@ -141,6 +141,24 @@
    "teacherOnly": false
   },
   {
+   "id": "3028bb2e-f03-78c9-e07f-51cc2b6b7b",
+   "title": "Equal Strings",
+   "files": [
+    {
+     "path": "content/if/IfStringEqual.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Equal-Strings-3028.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "b06427af-17b9-d269-25a4-3e5bb775e36d",
    "title": "Challenge ==",
    "files": [
@@ -180,6 +198,24 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Not-equals-explained-83c6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f4d6dd5c-88e3-2070-b5c9-1b4a27cfbc74",
+   "title": "Not Equal Strings",
+   "files": [
+    {
+     "path": "content/if/IfStringNotEqual.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Not-Equal-Strings-f4d6.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
