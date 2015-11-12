@@ -23,4 +23,4 @@ else {
 
 ## Reminder
 
-![](content/if/IfOne.png)
+![](./content/if/IfOne.png)

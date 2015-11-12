@@ -1,4 +1,4 @@
-This Unit covers the concept of conditional statements in Javascript.
+This Unit covers the concept of conditional statements in Java.
 
 Here's a good example.
 

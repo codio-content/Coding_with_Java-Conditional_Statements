@@ -10,4 +10,6 @@ else {
 ```
 
 ## !=
-You may remember from the previous Unit that the `!` sign reads 'not' and so `!=` reads 'not equals'.
+Reading the `!=` conditional operator is pretty straight forward. 
+
+The `!` sign reads 'not' and so `!=` reads 'not equals'.

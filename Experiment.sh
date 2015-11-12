@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd /home/codio/workspace/
+
 javac Experiment.java
 if [ $? -ne 0 ]; then exit 1; fi
 
