@@ -1,0 +1,178 @@
+[
+ {
+  "type": "test",
+  "taskId": "test-1180993407",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "./tests/errors_1/test.sh",
+   "instructions": "Fix the broken code.\n\n**Hint:** How do we compare two numbers?\n",
+   "name": "Fix broken code 1"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-203651951",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "node /home/codio/workspace/boolean-ch/simple-test.js",
+   "instructions": "We provide you with a number, N.\n\nIf N is greater than or equal to 100, output a boolean true, otherwise false.",
+   "name": "Simple boolean return"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2039942507",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Fast Cars 1",
+   "instructions": "We have provided you with 2 numbers, `car1` and `car2`, which contain the speed of 2 cars. \n\n* If either car is travelling at more than 70 then output `fast cars`\n* else output `ok`",
+   "command": "./tests/logic_cars_1/test.sh",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2383491788",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "True or False",
+   "instructions": "This challenge is the other way round. \n\nWe provide you with a string input that is either 'true' or 'false'. You should output a number 1 if 'true' or 0 if 'false'.",
+   "command": "node /home/codio/workspace/03-ch-if-1/true-false-test.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2697509729",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "./tests/boolean_input/test.sh",
+   "instructions": "We provide you with two boolean inputs called `isCold` and `isRainy`.\n\n* if it is cold output `shiver`\n* if it is not cold output `go to the beach`\n* if it is rainy output `get some cover`\n* if it is not rainy output `off to the beach again`\n\n",
+   "name": "Boolean inputs"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3066546204",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "./tests/if_not/test.sh",
+   "instructions": "We will provide you with an input variable named `word`, which contains some text.\n\n- If the value of `word` is not equal to `Bingo` output `Miss`\n- else output `Hit`\n\nUse the `!=` in your condition and remember strings are case-sensitive!",
+   "name": "Not equals !="
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3417544426",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Categories",
+   "instructions": "We have provided you with an input number called `age` and you need to determine which school level the person falls within given their age. \n\n- If 6 to 11 output `primary school` \n- If 12 to 18 output `secondary school`\n- If neither, then output `NA`\n",
+   "command": "./tests/logic_categories/test.sh",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-393850037",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Fast Cars 2",
+   "instructions": "We have provided you with 2 numbers, `car1` and `car2`, which contain the speed of 2 cars. \n\n- If both cars are travelling at more than 70 then output `2 fast cars`\n- else If only one car is moving at more than 70, output `1 fast car`\n- else output `no fast cars`",
+   "command": "./tests/logic_cars_2/test.sh",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-4031975421",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "./tests/if_equal/test.sh",
+   "instructions": "We will provide you with an input variable named `n`, which contains a number.\n\n- If `n` is equal to 100 output `Hit`\n- else output `Miss`\n\nRemember strings are case-sensitive!",
+   "name": "If Equal"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-4186476499",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "1 or 0",
+   "instructions": "You are provided with a number input which will be either 1 or 0. \n\nIf the number is 1, output ‘On’, if 0 output ‘Off’.",
+   "command": "node /home/codio/workspace/03-ch-if-1/1-0-test.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-484914084",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "./tests/errors_2/test.sh",
+   "instructions": "Fix the broken code. There are two errors, but sometimes a few small errors can cause more things to fall apart. Try remembering all the parts that make up an if statement when debugging these errors.",
+   "name": "Fix broken code 2"
+  }
+ }
+]

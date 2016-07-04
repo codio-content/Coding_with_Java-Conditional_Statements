@@ -12,7 +12,7 @@ public class Challenge {
       
         // input variables
       
-        int number = args[0];
+        int number = Integer.parseInt(args[0]);;
       
         // Write your code below.
             
