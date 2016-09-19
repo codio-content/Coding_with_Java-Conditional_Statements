@@ -83,16 +83,12 @@
   "type": "test",
   "taskId": "test-3066546204",
   "source": {
+   "name": "Not equals !=",
    "showName": false,
-   "answers": [],
-   "tokens": {
-    "blank": [],
-    "text": []
-   },
-   "points": 1,
+   "arePartialPointsAllowed": false,
+   "instructions": "We will provide you with an input variable named `word`, which contains some text.\n\n- If the value of `word` is not equal to `Bingo` output `Miss`\n- else output `Hit`\n\nUse the `!` in your condition and remember strings are case-sensitive!",
    "command": "./tests/if_not/test.sh",
-   "instructions": "We will provide you with an input variable named `word`, which contains some text.\n\n- If the value of `word` is not equal to `Bingo` output `Miss`\n- else output `Hit`\n\nUse the `!=` in your condition and remember strings are case-sensitive!",
-   "name": "Not equals !="
+   "points": 1
   }
  },
  {
